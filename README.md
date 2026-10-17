@@ -1,10 +1,5 @@
 # Practical 9: In-Memory Caching and Query Optimization
 
-**Student Name:** Deep Chauhan  
-**Student ID:** 24CS012  
-**Course:** ITUE301 / CSE304 — Advanced Web Development Frameworks  
-**Institution:** Charotar University of Science and Technology (CHARUSAT) — CSPIT / DEPSTAR  
-
 ---
 
 ## 📌 Project Overview
